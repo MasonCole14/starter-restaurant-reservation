@@ -114,7 +114,7 @@ const dateValidation = (req, res, next) => {
     });
   }
 
-  if (data.reservation_time <= "10:30" || data.reservation_time >= "21:30") {
+  if (data.reservation_time < "10:30" || data.reservation_time > "21:30") {
     return next({
       status: 400,
       message: `Restaurant is only open between 10:30 am and 9:30 pm.`,
