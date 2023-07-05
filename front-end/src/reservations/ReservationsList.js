@@ -25,7 +25,7 @@ export default function ReservationsList({ reservation }) {
           newStatus,
           abortController.signal
         );
-        history.go("/dashboard");
+        history.goBack();
       } catch (error) {
         setError([error.message]);
       }
