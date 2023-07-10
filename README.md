@@ -19,7 +19,7 @@ This is the main pafe of the app and includes the following functions:
 - When a reservation falls on selected date, the user can edit take actions on the reservations as described in the "Search" Section
 - A static dashboard appears on the left which allows the user to navigate between the `Dashboard`, `Search`, `New Reservation`, and `New Table` sections of the app
 
-(front-end/.screenshots/50E6B22D-FFF4-4C3C-A3A6-49D39CA063CC_1_105_c.jpeg)
+![dashboard](front-end/.screenshots/50E6B22D-FFF4-4C3C-A3A6-49D39CA063CC_1_105_c.jpeg)
 
 ### Search
 This page allows the user to find a reservation based on the customer's phone number.
