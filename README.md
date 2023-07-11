@@ -31,12 +31,12 @@ This page allows the user to find a reservation based on the customer's phone nu
 `Edit` - brings the user to a new screen to edit the reservation info
 `Cancel` - Cancels the reservation after the user confirms that they wish to continue with the action
 
-![Alt text](front-end/.screenshots/8BD74886-AB85-4610-9838-BEFEC62C5E4F_1_105_c.jpeg)
+![Alt text](<screenshots/8BD74886-AB85-4610-9838-BEFEC62C5E4F_1_105_c.jpeg>)
 
 ### Seat Reservation
 This page allows the user to assign a reservation to an open table. If the table cannot fit the reservation, an error message will appear.
 
-![Alt text](front-end/.screenshots/0D507D11-620B-4B23-8290-6CC551BD889B_1_105_c.jpeg)
+![Alt text](<screenshots/0D507D11-620B-4B23-8290-6CC551BD889B_1_105_c.jpeg>)
 
 ### New Reservation
 Thia page allows the user to create a new reservation, which must include the following:
@@ -49,13 +49,13 @@ Number of Guests: Any non-zero positive integer
 If any of the information is invalid or missing, the user is shown an error message.
 
 When the user selects `Submit`, the reservation is saved and the user is brought back to the `Dashboard` on the date of the newly created reservation
-![Alt text](front-end/.screenshots/8038243C-CCBC-4BF7-9EE1-395E9DE81AD3_1_105_c.jpeg)
+![Alt text](<screenshots/8038243C-CCBC-4BF7-9EE1-395E9DE81AD3_1_105_c.jpeg>)
 
 ### New Table
 This page allows the user to create a new table, which must include the following:
 Table Name: Accepts all characters
 Table Capacity: Any non-zero positive integer
-![Alt text](front-end/.screenshots/DF1871F9-17B5-4043-AEEE-BFAFE39BD8AE_1_105_c.jpeg)
+![Alt text](<screenshots/DF1871F9-17B5-4043-AEEE-BFAFE39BD8AE_1_105_c.jpeg>)
 
 ## Back End
 
