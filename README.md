@@ -77,8 +77,3 @@ Table Capacity: Any non-zero positive integer
 | Post | `/tables` | Creates a new table that is added to the database |
 | Put | `/tables/:table_id/seat` | Assigns a reservation to a table and updates the `seated` status |
 | Delete | `/tables/:table_id/seat` | Removes a reservation from a table |
-
-
-The deployed app can be found here: 
-Frontend - https://restaurant-reservation-1-front.onrender.com
-Backend - https://restaruant-reservation-1.onrender.com
