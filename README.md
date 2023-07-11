@@ -1,6 +1,8 @@
 # Periodic Tables Restaurant Reservation System | A Full-Stack Reservation App
 The Periodic Tables app is a full-stack reservation system for restaurant managers where users can create and manage restaurant reservations and available tables.
 
+## Render can be slow to process at times, please be patient with the buttons and load times
+
 The deployed app can be found here: 
 Frontend - https://restaurant-reservation-1-front.onrender.com
 Backend - https://restaruant-reservation-1.onrender.com
